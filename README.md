@@ -5,5 +5,7 @@ For Adobe Illustrator.
 
 ### Usage
 1 Select the parent layer (containing your named subitems)
+
 2 Go to *File > Other Scripts*
+
 3 Choose "SubItem2LayerName.jsx"
